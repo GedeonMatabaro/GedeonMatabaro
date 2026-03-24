@@ -1,4 +1,4 @@
-<!-- Profile README for @GedeonMatabaro -->
+<!-- Profile README for @guidegdm -->
 <p align="center">
   <img src="assets/banner.svg" alt="Gedeon • Inspire through innovation" width="100%" />
 </p>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://matabaro.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-7B3F00?style=for-the-badge" /></a>
+  <a href="https://g.matabaro.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-7B3F00?style=for-the-badge" /></a>
   
-  <a href="mailto:gedeongdm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hi!-7B3F00?style=for-the-badge" /></a>
+  <a href="mailto:gedeon@matabaro.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hi!-7B3F00?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -50,12 +50,12 @@ JavaScript / TypeScript • React • Next.js • Node.js • Tailwind CSS • N
 
 
 ### 📈 Stats (auto-updating)
-<img src="https://github-readme-stats.vercel.app/api?username=GedeonMatabaro&show_icons=true&hide_title=true&theme=transparent&icon_color=7B3F00&text_color=7B3F00" />
+<img src="https://github-readme-stats.vercel.app/api?username=guidegdm&show_icons=true&hide_title=true&theme=transparent&icon_color=7B3F00&text_color=7B3F00" />
 
 ---
 
 ### 🌐 Elsewhere
-- Portfolio: https://www.matabaro.com  
-- Email: gedeongdm@gmail.com
+- Portfolio: https://g.matabaro.com  
+- Email: gedeon@matabaro.com
 
 <sub>Theme: chocolate (#7B3F00) + white. Keep it clean and readable.</sub>
