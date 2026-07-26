@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gedeon Mugisho Matabaro — builder's mark</title>
+  <desc id="desc">A compact editorial portrait of Gedeon as a founder and systems builder, with hand-drawn paths representing thought, code, form, and people.</desc>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11100e"/>
+      <stop offset="0.62" stop-color="#191713"/>
+      <stop offset="1" stop-color="#101319"/>
+    </linearGradient>
+    <pattern id="paper" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="2" r="0.5" fill="#f6eedf" opacity="0.055"/>
+      <circle cx="7" cy="6" r="0.4" fill="#f6eedf" opacity="0.035"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#ground)"/>
+    <rect width="1200" height="320" fill="url(#paper)"/>
+    <rect x="0" width="11" height="320" fill="#ff6542"/>
+    <rect x="11" width="5" height="320" fill="#e9b949"/>
+
+    <g fill="none" stroke="#f6eedf" opacity="0.11">
+      <path d="M45 39H1157M45 281H1157"/>
+      <path d="M45 39V281M746 39V281M1157 39V281"/>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="47" y="67" fill="#a69e91" font-size="10" letter-spacing="2.5">GEDEON / PUBLIC NOTEBOOK / 001</text>
+      <text x="1128" y="67" fill="#a69e91" font-size="9" text-anchor="end" letter-spacing="1.8">DRC → INDIA → KINSHASA</text>
+
+      <text x="45" y="140" fill="#f4ecdf" font-family="ui-sans-serif, system-ui, sans-serif" font-size="48" font-weight="760" letter-spacing="-1.4">Gedeon Mugisho</text>
+      <text x="45" y="190" fill="#f4ecdf" font-family="ui-sans-serif, system-ui, sans-serif" font-size="48" font-weight="760" letter-spacing="-1.4">Matabaro</text>
+      <text x="47" y="228" fill="#c9c0b3" font-family="ui-sans-serif, system-ui, sans-serif" font-size="17">I turn difficult systems into things people can use.</text>
+
+      <g transform="translate(47 258)">
+        <circle cx="4" cy="-4" r="4" fill="#ff6542"/>
+        <text x="18" y="0" fill="#817c74" font-size="9" letter-spacing="1.7">FOUNDER</text>
+        <circle cx="112" cy="-4" r="4" fill="#e9b949"/>
+        <text x="126" y="0" fill="#817c74" font-size="9" letter-spacing="1.7">SYSTEMS</text>
+        <circle cx="220" cy="-4" r="4" fill="#7898ff"/>
+        <text x="234" y="0" fill="#817c74" font-size="9" letter-spacing="1.7">INTERFACES</text>
+        <circle cx="358" cy="-4" r="4" fill="#72d2a6"/>
+        <text x="372" y="0" fill="#817c74" font-size="9" letter-spacing="1.7">AI</text>
+      </g>
+
+      <text x="1128" y="264" fill="#817c74" font-size="8" text-anchor="end" letter-spacing="1.7">THINK → MAKE → TEST → LISTEN</text>
+    </g>
+
+    <!-- A maker's fingerprint: four imperfect paths meeting at one human center. -->
+    <g transform="translate(785 78)" fill="none" stroke-linecap="round">
+      <path d="M5 126C39 20 178 2 280 42C340 66 361 129 335 187" stroke="#ff6542" stroke-width="3" opacity="0.82"/>
+      <path d="M23 151C67 66 168 43 251 68C307 85 329 129 313 174" stroke="#e9b949" stroke-width="3" opacity="0.78"/>
+      <path d="M53 169C94 104 171 83 229 99C272 111 292 140 283 171" stroke="#7898ff" stroke-width="3" opacity="0.8"/>
+      <path d="M88 177C122 134 177 119 216 130C247 139 258 157 252 178" stroke="#72d2a6" stroke-width="3" opacity="0.8"/>
+      <path d="M132 182C151 160 183 151 204 158C218 163 225 172 222 183" stroke="#f4ecdf" stroke-width="2.5" opacity="0.78"/>
+
+      <circle cx="178" cy="182" r="10" fill="#f4ecdf" stroke="none"/>
+      <circle cx="178" cy="182" r="22" stroke="#f4ecdf" stroke-width="1" opacity="0.22"/>
+
+      <path d="M178 182L70 83" stroke="#ff6542" stroke-width="1" opacity="0.34"/>
+      <path d="M178 182L238 65" stroke="#e9b949" stroke-width="1" opacity="0.34"/>
+      <path d="M178 182L314 119" stroke="#7898ff" stroke-width="1" opacity="0.34"/>
+      <path d="M178 182L286 205" stroke="#72d2a6" stroke-width="1" opacity="0.34"/>
+
+      <g fill="#a59d90" stroke="none" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" letter-spacing="1.2">
+        <text x="36" y="78">THOUGHT</text>
+        <text x="228" y="53">CODE</text>
+        <text x="321" y="121">FORM</text>
+        <text x="292" y="220">PEOPLE</text>
+      </g>
+    </g>
+  </g>
+</svg>
