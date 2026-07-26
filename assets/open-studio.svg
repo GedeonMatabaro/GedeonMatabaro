@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Gedeon Mugisho Matabaro — Open Studio</title>
+  <desc id="desc">An editorial identity poster presenting Gedeon as a founder, thinker, artist, and developer.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0e10"/>
+      <stop offset=".6" stop-color="#151311"/>
+      <stop offset="1" stop-color="#101216"/>
+    </linearGradient>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".55" fill="#f4ead9" opacity=".055"/>
+      <circle cx="5" cy="4" r=".4" fill="#f4ead9" opacity=".035"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="440" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="440" fill="url(#paper)"/>
+    <rect width="1200" height="440" fill="url(#grain)"/>
+    <rect x="0" y="0" width="18" height="440" fill="#ff6243"/>
+    <rect x="18" y="0" width="7" height="440" fill="#f3be4d"/>
+    <path d="M790-30L1240 250V440H1102L733 39Z" fill="#6687ff" opacity=".09"/>
+    <circle cx="1140" cy="22" r="160" fill="#ff6243" opacity=".055"/>
+
+    <g fill="none" stroke="#f4ead9" opacity=".12">
+      <path d="M54 42H1147M54 394H1147"/>
+      <path d="M54 42V394M720 42V394M1147 42V394"/>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="57" y="72" fill="#aaa196" font-size="11" letter-spacing="3">OPEN STUDIO / GEDEON.M / 01</text>
+      <text x="1118" y="72" fill="#aaa196" font-size="10" text-anchor="end" letter-spacing="2">PUBLIC WORKBENCH</text>
+
+      <text x="55" y="187" fill="#f3eadc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="60" font-weight="750" letter-spacing="-1.8">Gedeon Mugisho</text>
+      <text x="55" y="251" fill="#f3eadc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="60" font-weight="750" letter-spacing="-1.8">Matabaro</text>
+
+      <rect x="57" y="281" width="78" height="4" fill="#ff6243"/>
+      <rect x="139" y="281" width="29" height="4" fill="#f3be4d"/>
+      <rect x="172" y="281" width="16" height="4" fill="#6687ff"/>
+
+      <text x="57" y="326" fill="#d1c7ba" font-family="ui-sans-serif, system-ui, sans-serif" font-size="17">I build software, companies, and ways of seeing.</text>
+      <text x="57" y="355" fill="#8f8982" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">CTO · SYSTEMS BUILDER · DRC → INDIA → RWANDA</text>
+
+      <g transform="translate(767 119)">
+        <text x="0" y="0" fill="#6f6b68" font-size="9" letter-spacing="2">FOUR MODES OF WORK</text>
+
+        <g transform="translate(0 40)">
+          <text x="0" y="0" fill="#ff6243" font-size="10" letter-spacing="1.6">01</text>
+          <text x="42" y="0" fill="#f3eadc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="650">FOUNDER</text>
+          <text x="250" y="0" fill="#827d78" font-size="9" letter-spacing="1.5">DECIDE / LEAD / SHIP</text>
+        </g>
+        <g transform="translate(0 91)">
+          <text x="0" y="0" fill="#f3be4d" font-size="10" letter-spacing="1.6">02</text>
+          <text x="42" y="0" fill="#f3eadc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="650">THINKER</text>
+          <text x="250" y="0" fill="#827d78" font-size="9" letter-spacing="1.5">QUESTION / MODEL / FRAME</text>
+        </g>
+        <g transform="translate(0 142)">
+          <text x="0" y="0" fill="#6687ff" font-size="10" letter-spacing="1.6">03</text>
+          <text x="42" y="0" fill="#f3eadc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="650">ARTIST</text>
+          <text x="250" y="0" fill="#827d78" font-size="9" letter-spacing="1.5">COMPOSE / DISTILL / EXPRESS</text>
+        </g>
+        <g transform="translate(0 193)">
+          <text x="0" y="0" fill="#79d9b2" font-size="10" letter-spacing="1.6">04</text>
+          <text x="42" y="0" fill="#f3eadc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="650">DEVELOPER</text>
+          <text x="250" y="0" fill="#827d78" font-size="9" letter-spacing="1.5">DESIGN / BUILD / DEBUG</text>
+        </g>
+      </g>
+
+      <text x="57" y="417" fill="#625f5b" font-size="8" letter-spacing="1.8">NOT A TITLE STACK. A WAY OF WORKING.</text>
+      <text x="1118" y="417" fill="#625f5b" font-size="8" text-anchor="end" letter-spacing="1.8">@GUIDEGDM</text>
+    </g>
+  </g>
+</svg>
